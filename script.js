@@ -22,4 +22,4 @@ function rollIt(){
   }
 }
 rollIt();
-$(".btn.danger").button("toggle");
+$(".btn-danger").button("toggle");
